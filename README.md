@@ -6,6 +6,7 @@
 # Technology
   - HTML
   - CSS
+  - JS
 
 # Tools Used
   - Git Bash
