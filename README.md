@@ -3,11 +3,11 @@
 # Description
 - This project is about creating a web app for student registration. Web-app is easily accessible anytime.
 
-  #Technology
+  # Technology
   - HTML
   - CSS
 
-  #Tools Used
+  # Tools Used
   - Git Bash
   - Github
   - Notepad
